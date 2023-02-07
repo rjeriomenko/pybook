@@ -7,6 +7,8 @@ Create Order BOOK
 # Set up market, order, asset
 
 # create 3 separate databases for Asset, Market, Order
+# Using Redis, and they are all under a single cluster
+
 
 # Asset Object
 class Asset:
